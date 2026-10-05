@@ -8,3 +8,4 @@ com/familytech/translator/controller/FamilyMemberControllerTest.class
 com/familytech/translator/service/TranslationServiceTest.class
 com/familytech/translator/controller/HealthControllerTest.class
 com/familytech/translator/service/ai/AiGenerationServiceTest.class
+com/familytech/translator/service/ExplainBackParserTest.class

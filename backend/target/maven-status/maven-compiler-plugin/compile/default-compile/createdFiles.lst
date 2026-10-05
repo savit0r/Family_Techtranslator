@@ -1,4 +1,5 @@
 com/familytech/translator/dto/FamilyMemberResponse.class
+com/familytech/translator/dto/FeedbackRequest.class
 com/familytech/translator/exception/LlmProviderUnavailableException.class
 com/familytech/translator/controller/HealthController.class
 com/familytech/translator/service/ai/AiGenerationService.class
@@ -10,10 +11,12 @@ com/familytech/translator/service/ai/OllamaLlmProvider$OllamaResponse.class
 com/familytech/translator/service/ai/OllamaLlmProvider.class
 com/familytech/translator/model/FamilyMember.class
 com/familytech/translator/model/TranslationHistory.class
+com/familytech/translator/dto/ExplainBackRequest.class
 com/familytech/translator/service/TranslationParser$ParsedExplanation.class
 com/familytech/translator/config/WebConfig.class
 com/familytech/translator/service/ai/LlmProvider.class
 com/familytech/translator/service/TranslationService.class
+com/familytech/translator/service/ExplainBackParser.class
 com/familytech/translator/service/ai/MockLlmProvider.class
 com/familytech/translator/exception/GlobalExceptionHandler.class
 com/familytech/translator/dto/TranslationRequest.class
@@ -23,6 +26,7 @@ com/familytech/translator/controller/TranslationController.class
 com/familytech/translator/dto/AiGenerateRequest.class
 com/familytech/translator/exception/LlmTimeoutException.class
 com/familytech/translator/repository/TranslationHistoryRepository.class
+com/familytech/translator/service/ExplainBackParser$ParsedExplainBack.class
 com/familytech/translator/service/TranslationParser.class
 com/familytech/translator/controller/AiController.class
 com/familytech/translator/exception/ResourceNotFoundException.class
@@ -30,4 +34,5 @@ com/familytech/translator/repository/FamilyMemberRepository.class
 com/familytech/translator/model/TechLevel.class
 com/familytech/translator/dto/AiGenerateResponse.class
 com/familytech/translator/service/FamilyMemberService.class
+com/familytech/translator/dto/ExplainBackResponse.class
 com/familytech/translator/dto/FamilyMemberRequest.class
