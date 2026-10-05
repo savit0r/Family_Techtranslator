@@ -1,0 +1,15 @@
+# Maven / Java
+backend/target/
+*.jar
+*.war
+*.class
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE / System
+.DS_Store
+.vscode/
+.idea/

@@ -1,6 +1,6 @@
 import type { ExplainBackRequest, ExplainBackResponse, FamilyMember, FamilyMemberRequest, SystemStatus, TranslationRequest, TranslationResponse } from './types';
 
-const API_BASE_URL = 'http://localhost:8080/api/v1';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://familytech-translator-backend.onrender.com/api/v1';
 
 async function fetchJson<T>(url: string, options?: RequestInit): Promise<T> {
   const response = await fetch(url, {
