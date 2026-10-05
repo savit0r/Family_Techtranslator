@@ -1,0 +1,11 @@
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/controller/AiControllerTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/controller/FamilyMemberControllerTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/controller/HealthControllerTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/controller/TranslationControllerTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/ExplainBackParserTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/FamilyMemberServiceTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/PromptTemplateServiceTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/TranslationParserTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/TranslationServiceTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/ai/AiGenerationServiceTest.java
+/Users/rohit/Desktop/Family Techtranslator/backend/src/test/java/com/familytech/translator/service/ai/MockLlmProviderTest.java

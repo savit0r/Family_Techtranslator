@@ -1,0 +1,10 @@
+com/familytech/translator/controller/AiControllerTest.class
+com/familytech/translator/service/PromptTemplateServiceTest.class
+com/familytech/translator/controller/TranslationControllerTest.class
+com/familytech/translator/service/ai/MockLlmProviderTest.class
+com/familytech/translator/service/TranslationParserTest.class
+com/familytech/translator/service/FamilyMemberServiceTest.class
+com/familytech/translator/controller/FamilyMemberControllerTest.class
+com/familytech/translator/service/TranslationServiceTest.class
+com/familytech/translator/controller/HealthControllerTest.class
+com/familytech/translator/service/ai/AiGenerationServiceTest.class
